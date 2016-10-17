@@ -77,8 +77,8 @@
   <project path="hardware/libsensors" name="platform/hardware/libsensors" remote="x86" revision="marshmallow-x86" />
   <project path="hardware/ril" name="platform/hardware/ril" groups="pdk" remote="x86" revision="marshmallow-x86" />
   <project path="hardware/x86power" name="platform/hardware/x86power" remote="x86" revision="marshmallow-x86" />
-  <project path="packages/apps/CMFileManager" name="platform_packages_apps_CMFileManager" remote="x86" revision="marshmallow-x86" />
-  <project path="packages/apps/Launcher3" name="platform_packages_apps_Launcher3" groups="pdk-fs" remote="x86" revision="marshmallow-x86" />
+  <project path="packages/apps/CMFileManager" name="platform/packages/apps/CMFileManager" remote="x86" revision="marshmallow-x86" />
+  <project path="packages/apps/Launcher3" name="platform/packages/apps/Launcher3" groups="pdk-fs" remote="x86" revision="marshmallow-x86" />
   <project path="packages/apps/TSCalibration2" name="platform/packages/apps/TSCalibration2" remote="x86" revision="marshmallow-x86" />
   <project path="packages/services/Analytics" name="platform/packages/services/Analytics" remote="x86" revision="marshmallow-x86" />
   <project path="system/vold" name="platform/system/vold" remote="x86" revision="marshmallow-x86" groups="pdk" />
@@ -87,7 +87,7 @@
   <project path="bionic" name="platform/bionic" remote="x86" groups="pdk" revision="cm-13.0-x86" />
   <project path="external/ffmpeg" name="android_external_ffmpeg" remote="meijjaa" revision="cm-13.0-x86" />
   <project path="external/stagefright-plugins" name="android_external_stagefright-plugins" remote="meijjaa" revision="cm-13.0-x86" />
-  <project path="frameworks/av" name="android_frameworks_av" remote="x86" revision="cm-13.0-x86" groups="pdk" />
+  <project path="frameworks/av" name="platform/frameworks/av" remote="x86" revision="cm-13.0-x86" groups="pdk" />
   <project path="hardware/intel/intel-driver" name="platform/hardware/intel/intel-driver" remote="x86" revision="cm-13.0-x86" />
   <project path="hardware/intel/libva" name="platform/hardware/intel/libva" remote="x86" revision="cm-13.0-x86" groups="intel" />
   <project path="hardware/powerbtnd" name="platform/hardware/powerbtnd" remote="x86" revision="cm-13.0-x86" />
