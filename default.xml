@@ -341,6 +341,7 @@
   <project path="system/netd" name="CyanogenMod/android_system_netd" groups="pdk" remote="cm" />
   <project path="system/qcom" name="CyanogenMod/android_system_qcom" groups="qcom" remote="cm" />
   <project path="system/security" name="CyanogenMod/android_system_security" groups="pdk" remote="cm" />
+  <project path="vendor/qcom/opensource/dpm" name="CyanogenMod/android_vendor_qcom_opensource_dpm" remote="cm" />
 
   <!-- AICP custom -->
   <project path="device/qcom/sepolicy" name="AICP/device_qcom_sepolicy" remote="aicp" />
