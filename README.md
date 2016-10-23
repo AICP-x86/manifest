@@ -32,4 +32,13 @@ After the sync is finished, please read the [Building the image instructions fro
 
 Remember to `make clobber` every now and then!
 
+Or
+---
 
+[Download the latest build of AICP-x86](https://drive.google.com/open?id=0B73McXwkxx69azg0RUtJWVVvaHM)
+
+[Video](https://drive.google.com/open?id=0B73McXwkxx69azg0RUtJWVVvaHM)
+
+[ScreenShots](https://drive.google.com/open?id=0B73McXwkxx69RmNUZlJya1E2NlU)
+
+[Feedback](https://drive.google.com/open?id=1JgxzRaXV-9gWIwHA3ehppgAA1EfhEJQgAWeQdQktk5A)
