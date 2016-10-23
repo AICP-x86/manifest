@@ -104,6 +104,7 @@
   <project path="frameworks/native" name="frameworks_native" remote="AICP-x86" revision="mm6.0" groups="pdk" />
   <project path="hardware/libhardware" name="hardware_libhardware" remote="AICP-x86" revision="mm6.0" groups="pdk" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="AICP-x86" revision="mm6.0" groups="pdk-fs" />
+  <project path="vendor/aicp" name="vendor_aicp" remote="AICP-x86" revision="mm6.0" />
 
 <!-- From OpenGapps-x86 -->
   <project path="vendor/google/build" name="aosp_build" revision="master" remote="opengapps" />
@@ -370,7 +371,6 @@
   <project path="packages/services/Telecomm" name="AICP/packages_services_Telecomm" groups="pdk-cw-fs,pdk-fs" remote="aicp" />
   <project path="packages/services/ThemeManagerService" name="AICP/packages_services_ThemeManagerService" groups="pdk-cw-fs,pdk-fs" remote="aicp" />
   <project path="packages/themes/HexoLibre" name="AICP/packages_themes_HexoLibre" groups="themes" remote="aicp" />
-  <project path="vendor/aicp" name="AICP/vendor_aicp" remote="aicp" />
   <project path="vendor/cmsdk" name="AICP/vendor_cmsdk" remote="aicp" />
   <!-- END AICP -->
 
