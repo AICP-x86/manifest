@@ -37,7 +37,7 @@ Or
 
 [Download the latest build of AICP-x86](https://drive.google.com/open?id=0B73McXwkxx69azg0RUtJWVVvaHM)
 
-[Video](https://drive.google.com/open?id=0B73McXwkxx69azg0RUtJWVVvaHM)
+[Video](https://www.youtube.com/watch?v=JJIt22MOFCw)
 
 [ScreenShots](https://drive.google.com/open?id=0B73McXwkxx69RmNUZlJya1E2NlU)
 
