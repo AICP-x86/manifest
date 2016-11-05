@@ -50,6 +50,7 @@
 <!-- From Android-x86's repository -->
   <project path="kernel" name="kernel/common" remote="x86" revision="kernel-4.4" />
   <!-- project path="kernel" name="linux" remote="maurossi" revision="kernel-4.8" -->
+  <project path="device/generic/x86" name="platform/device/generic/x86" remote="x86" revision="marshmallow-x86" groups="pdk" />
   <project path="external/alsa-lib" name="platform/external/alsa-lib" remote="x86" revision="marshmallow-x86" />
   <project path="external/alsa-utils" name="platform/external/alsa-utils" remote="x86" revision="marshmallow-x86" />
   <project path="external/bluetooth/bluez" name="platform/external/bluetooth/bluez" remote="x86" revision="marshmallow-x86" />
@@ -97,7 +98,6 @@
   <project path="build" name="build" remote="AICP-x86" revision="mm6.0" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
-  <project path="device/generic/x86" name="device_generic_x86" remote="AICP-x86" revision="mm6.0" groups="pdk" />
   <project path="device/generic/common" name="device_generic_common" remote="AICP-x86" revision="mm6.0" groups="pdk" />
   <project path="device/generic/firmware" name="device/generic/firmware" remote="AICP-x86" revision="mm6.0" />
   <project path="frameworks/base" name="frameworks_base" remote="AICP-x86" revision="mm6.0" groups="pdk-cw-fs,pdk-fs" />
