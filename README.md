@@ -26,7 +26,15 @@ Building
 
 After the sync is finished, please read the [Building the image instructions from the Android-x86 site](http://www.android-x86.org/getsourcecode) on how to build.
 
+For 32bit (x86)
+
    $ . build/envsetup.sh && lunch android_x86-eng
+
+   $ make iso_img
+
+For 64bit (x86_64)
+
+   $ . build/envsetup.sh && lunch android_x86_64-eng
 
    $ make iso_img
 
